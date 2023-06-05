@@ -1,5 +1,5 @@
 ---
-date: "2022-10-24"
+date: "2023-06-05"
 sections:
 - block: about.biography
   content:
@@ -9,36 +9,65 @@ sections:
 - block: features
   content:
     items:
-    - description: 90%
+    - description: Programming Language
       icon: r-project
       icon_pack: fab
       name: R
-    - description: 100%
+    - description: Classical and Bayesian
       icon: chart-line
       icon_pack: fas
       name: Statistics
-    - description: 10%
-      icon: camera-retro
+    - description: Predictive Analytics
+      icon: brain
       icon_pack: fas
-      name: Photography
+      name: Artificial Intelligence
     title: Skills
 - block: experience
   content:
     date_format: Jan 2006
     items:
-    - company: GenCoin
+    - company: NFU Mutual
       company_logo: org-gc
       company_url: ""
       date_end: ""
-      date_start: "2021-01-01"
+      date_start: "2022-10-26"
       description: |2-
           Responsibilities include:
 
-          * Analysing
-          * Modelling
-          * Deploying
+          * Leading Automation & Innovation Efforts across UW&P
+          * Managing Consumer Demand Models - Utilising GBMs
+          * Technical and Statistical Training Co-ordinator
+      location: Stratford-upon-Avon
+      title: Pricing Innovation Consultant
+    - company: NFU Mutual
+      company_logo: org-gc
+      company_url: ""
+      date_end: "2022-10-26"
+      date_start: "2021-07-26"
+      description: |2-
+          Responsibilities included:
+
+          * Maintaining Growth & Peristancy of £160M LCI Portfolio
+          * Creating Experience Rating Tools for Individual Accounts
+          * Stakeholder Management with Brokers, Agents and UW
+      location: Stratford-upon-Avon
+      title: Large Corporate Insurance Consultant
+    - company: BUPA
+      company_logo: org-x
+      company_url: ""
+      date_end: "2020-12-31"
+      date_start: "2016-01-01"
+      description: Taught electronic engineering and researched semiconductor physics.
       location: California
-      title: CEO
+      title: Actuarial Pricing Consultant
+    - company: AON
+      company_logo: org-x
+      company_url: ""
+      date_end: "2020-12-31"
+      date_start: "2016-01-01"
+      description: Taught electronic engineering and researched semiconductor physics.
+      location: Manchester
+      title: Actuarial Retirement Consultant
     - company: University X
       company_logo: org-x
       company_url: ""
@@ -173,12 +202,11 @@ sections:
 - block: contact
   content:
     address:
-      city: Stanford
-      country: United States
-      country_code: US
-      postcode: "94305"
-      region: CA
-      street: 450 Serra Mall
+      city: Stratford-upon-Avon
+      country: United Kingdom
+      country_code: UK
+      postcode: "CV37 7LW"
+      street: 5 Montague Court
     appointment_url: https://calendly.com
     autolink: true
     contact_links:
@@ -190,12 +218,8 @@ sections:
       icon_pack: fab
       link: skype:echo123?call
       name: Skype Me
-    - icon: video
-      icon_pack: fas
-      link: https://zoom.com
-      name: Zoom Me
-    directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-    email: test@example.org
+    directions: Originally from Wigan, Greater Manchester
+    email: sam_parry93@hotmail.com
     form:
       formspree:
         id: null
@@ -203,12 +227,11 @@ sections:
         captcha: false
       provider: netlify
     office_hours:
-    - Monday 10:00 to 13:00
-    - Wednesday 09:00 to 10:00
-    phone: 888 888 88 88
+    - Monday-Friday 09:00 to 18:00
+    - Saturday-Sunday 10:00 to 14:00
+    phone: 07949 510 894
     subtitle: null
-    text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis
-      ut magna et, vehicula efficitur enim.
+    text: If you'd like to get in touch with me to discuss this website or to extend your network. Please use the facilities below to contact me.
     title: Contact
   design:
     columns: "2"
